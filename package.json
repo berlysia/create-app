@@ -6,9 +6,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "bin": {
-    "@berlysia/create-app": "index.js"
-  },
+  "bin": "./index.js",
   "files": [
     "templates",
     "index.js"
