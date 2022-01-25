@@ -7,7 +7,7 @@
     "access": "public"
   },
   "bin": {
-    "create-app": "index.js"
+    "@berlysia/create-app": "index.js"
   },
   "files": [
     "templates",
