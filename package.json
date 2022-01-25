@@ -9,6 +9,10 @@
   "bin": {
     "create-app": "index.js"
   },
+  "files": [
+    "templates",
+    "index.js"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "run-p lint:*",
